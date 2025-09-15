@@ -19,6 +19,7 @@ namespace Estructuras_Condicionales
                 Console.WriteLine("Entrada inválida. Debe ingresar un número entero."); 
                 return; 
             } 
+            //----------
             // Estructura condicional doble para evaluar par o impar
             if (numero % 2 == 0) // % devuelve el residuo de una división entera
             { 
