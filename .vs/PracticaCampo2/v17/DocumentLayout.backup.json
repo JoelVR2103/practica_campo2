@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\practicaCampo\\PracticaCampo2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C191E8C-B365-4216-A9D7-5857102753A9}|PracticaCampo2\\PracticaCampo2.csproj|c:\\users\\user\\desktop\\practicacampo\\practicacampo2\\practicacampo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C191E8C-B365-4216-A9D7-5857102753A9}|PracticaCampo2\\PracticaCampo2.csproj|solutionrelative:practicacampo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C191E8C-B365-4216-A9D7-5857102753A9}|PracticaCampo2\\Estructuras_Condicionales.csproj|c:\\users\\user\\desktop\\practicacampo\\practicacampo2\\practicacampo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C191E8C-B365-4216-A9D7-5857102753A9}|PracticaCampo2\\Estructuras_Condicionales.csproj|solutionrelative:practicacampo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C16C3388-B0FC-4274-B593-A50797BAD964}|Estructura_de_Seleccion_Multiple\\Estructura_de_Seleccion_Multiple.csproj|c:\\users\\user\\desktop\\practicacampo\\practicacampo2\\estructura_de_seleccion_multiple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C16C3388-B0FC-4274-B593-A50797BAD964}|Estructura_de_Seleccion_Multiple\\Estructura_de_Seleccion_Multiple.csproj|C:\\Users\\USER\\Desktop\\practicaCampo\\PracticaCampo2\\estructura_de_seleccion_multiple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C16C3388-B0FC-4274-B593-A50797BAD964}|Estructura_de_Seleccion_Multiple\\Estructura_de_Seleccion_Multiple.csproj|solutionrelative:estructura_de_seleccion_multiple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,8 +30,7 @@
               "RelativeToolTip": "Estructura_de_Seleccion_Multiple\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T02:46:00.679Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T02:46:00.679Z"
             },
             {
               "$type": "Document",
@@ -41,7 +40,7 @@
               "RelativeDocumentMoniker": "PracticaCampo2\\Program.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\practicaCampo\\PracticaCampo2\\PracticaCampo2\\Program.cs",
               "RelativeToolTip": "PracticaCampo2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-15T02:44:56.11Z",
               "EditorCaption": ""
